@@ -4,3 +4,10 @@ Larionov equation (Larionov, 1969), is one of the most common equations used to 
 
 ```math
 V_{cl} = 0.083[2^{(3.7 \times I_{GR})} - 1.0]
+
+# GR Index Calculation
+
+While IGR, or GR Index, is:
+
+```math
+IGR = \frac{GR_{log} - GR_{min}}{GR_{max} - GR_{min}}
