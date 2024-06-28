@@ -12,7 +12,8 @@ While IGR, or GR Index, is:
 IGR = \frac{GR_{log} - GR_{min}}{GR_{max} - GR_{min}}
 ```
 
-Example is as follows:
+Example showing the GR log, transformed to Vclay log, and shaded Vclay log as follows:
 
+![image](https://github.com/ihfaruqi/Vclay-Calculation/assets/173105583/6c6f5928-91a9-4385-8121-ff498c744e69)
 ![Example_Vclay_log](https://github.com/ihfaruqi/Vclay-Calculation/assets/173105583/56bf90ed-a880-4bdb-87df-9ecd21023fe4)
 ![Example_Vclay_log_shade](https://github.com/ihfaruqi/Vclay-Calculation/assets/173105583/45ebfbae-9986-4d7e-b8f4-13b1c32bbdac)
