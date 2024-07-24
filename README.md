@@ -1,6 +1,6 @@
 # Vclay Calculation
 
-The Larionov equation (Larionov, 1969) is one of the most commonly used equations to convert Vclay from Gamma Ray (GR) readings. For evaluating the shallow unconsolidated sand in the Gulf Coast region, the young rock method is frequently employed. The calculation is as follows:
+The Larionov equation (Larionov, 1969) is one of the most commonly used equations to convert Vclay from Gamma Ray (GR) readings. For evaluating the shallow unconsolidated sand (e.g., the Gulf Coast region), the young rock method is frequently employed. The calculation is as follows:
 
 ```math
 V_{cl} = 0.083[2^{(3.7 \times I_{GR})} - 1.0]
